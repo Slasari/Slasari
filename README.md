@@ -33,7 +33,7 @@
 <div align="left">
     <a href="https://henry-pi-pokemon-theta.vercel.app/" rel="noopener noreferrer" target="_blank"><img src=https://github.com/Slasari/Slasari/blob/main/c66c3d92-e5f7-473d-9d99-d813096665a2.png alt="background" width="400px" height="200px"/></a>
     <a href="https://gamehub-chi.vercel.app/" rel="noopener noreferrer" target="_blank"><img src=https://github.com/Tdibacco17/Tdibacco17/blob/main/ecommerce.jpg alt="background" width="400px" height="200px"/></a></br></br>
-  <h4>🐶 Aplicación Proyecto Individual:</h4>
+  <h4>🔴Aplicación Proyecto Individual:</h4>
   <p>Es una aplicación de página única, basada en una api de Pokemons con el fin de aplicar los conocimientos aprendidos en el bootcamp de SoyHenry realizando diferentes funcionalidades.</br>
   Desarrollada con tecnologias como React, Redux, Css puro para el FrontEnd, NodeJs, Express, Sequelize para el BackEnd y PostgreSQL para la base de datos.</p>
   <h4>🖥️ Aplicación Proyecto Grupal:</h4>
