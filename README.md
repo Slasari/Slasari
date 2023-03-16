@@ -1,5 +1,5 @@
 #
-<h1 align="left">Hello World!</h1>
+<h1 align="left">Hello World! 🤖</h1>
 
 <h4> Mi nombre es Ariel, Soy Full Stack Developer Jr. con conocimientos en Javascript | React | Redux | Node.Js | Express | PostgreSQL | Sequelize | Mongoose | MongoDB | HTML | CSS | Git | GitHub. </h4>
 <h4>Me considero una persona productiva, con buena comunicación y buen trabajo en equipo, pensamiento creativo, organizada y positiva, Me gustan los desafios ya que son una forma de medir tus habilidades y asi poder mejorarlas y ser cada dia una mejor version de vos mismo. Me gusta la resolucion de problemas y la implementacion de la tecnologia en la vida cotidiana del ser humano, Siempre intento aportar mi granito de arena para que nuestra sociedad y nuestro mundo sea cada vez mejor.</h4>
