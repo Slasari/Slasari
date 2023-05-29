@@ -1,6 +1,6 @@
 #
-<img src="https://github-readme-stats.vercel.app/api?username=Slasari&show_icons=true&theme=yeblu" alt="Slasari"/>
-<img src= "https://github-readme-streak-stats.herokuapp.com/?user=Slasari" alt="Slasari">
+<img src="https://github-readme-stats.vercel.app/api?username=Slasari&show_icons=true&theme=yeblu" alt="Slasari" align="left" width='45.5%'/>
+<img src= "https://github-readme-streak-stats.herokuapp.com/?user=Slasari" alt="Slasari" align="right" width='48%'>
 
 <h1 align="left">Hello World! 🤖</h1>
 
