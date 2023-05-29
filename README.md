@@ -1,4 +1,7 @@
 #
+<img src="https://github-readme-stats.vercel.app/api?username=Slasari&show_icons=true&theme=yeblu" alt="Slasari"/>
+<img src= "https://github-readme-streak-stats.herokuapp.com/?user=Slasari" alt="Slasari">
+
 <h1 align="left">Hello World! 🤖</h1>
 
 <h4> Mi nombre es Ariel, Soy Full Stack Developer Jr. con conocimientos en Javascript | React | Redux | Node.Js | Express | PostgreSQL | Sequelize | Mongoose | MongoDB | HTML | CSS | Git | GitHub. </h4>
